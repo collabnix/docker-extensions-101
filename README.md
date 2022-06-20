@@ -3,24 +3,19 @@
 Building a bunch of CLI extensions for Docker Desktop
 
 
-## Getting Started
+# Getting Started
 
 Below instructions are for Apple Macbook M1 Pro Apple Chip system:
 
 
-- [Download and Install](https://www.docker.com/products/docker-desktop/) Docker Desktop
-
-<img width="594" alt="image" src="https://user-images.githubusercontent.com/34368930/174529940-1dfc7e51-cc28-4de5-8395-b73c7f13a151.png">
-
+- [Download](https://www.docker.com/products/docker-desktop/) and Install Docker Desktop
 - Enable Docker Extensions
 
 
 <img width="1091" alt="image" src="https://user-images.githubusercontent.com/34368930/174530063-563b9a41-bb97-41a9-bd2d-d66a01fd37dd.png">
 
 
-- Install Docker Extension CLI
-
-[Download Docker Extension CLI from this link](https://github.com/docker/extensions-sdk/releases/download/v0.2.4/desktop-extension-cli-darwin-arm64.tar.gz)
+- [Download Docker Extension CLI from this link](https://github.com/docker/extensions-sdk/releases/download/v0.2.4/desktop-extension-cli-darwin-arm64.tar.gz)
 
 ```
 docker extension   
