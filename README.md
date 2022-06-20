@@ -10,6 +10,8 @@ Building a bunch of CLI extensions for Docker Desktop
 
 ## Get Docker Info
 
+The sample code is built by Docker Team and published [here](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-using-docker-cli/)
+
 ### Getting Started
 
 Below instructions are for Apple Macbook M1 Pro Apple Chip system:
