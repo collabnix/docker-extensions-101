@@ -1,9 +1,16 @@
-# List of Docker Desktop CLI Extension
+# List of Docker Desktop CLI Extensions
 
 Building a bunch of CLI extensions for Docker Desktop
 
+## Table of Contents
 
-# Getting Started
+1. [Get Docker Info](#get-docker-info)
+2. [Get Docker Images Architecture](#get-docker-images-architecture)
+
+
+## Get Docker Info
+
+### Getting Started
 
 Below instructions are for Apple Macbook M1 Pro Apple Chip system:
 
@@ -97,4 +104,5 @@ docker extension install docker/minimal-docker-cli-extension:latest
 <img width="506" alt="image" src="https://user-images.githubusercontent.com/34368930/174530647-10b2f2c3-d064-4664-bc0a-5a88f33841ee.png">
 
 
+### Get Docker Images Architecture
 
