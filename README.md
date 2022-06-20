@@ -1,4 +1,4 @@
-# docker-desktop-cli-extension
+# List of Docker Desktop CLI Extension
 
 Building a bunch of CLI extensions for Docker Desktop
 
